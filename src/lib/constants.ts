@@ -27,7 +27,7 @@ export const TIPS = [
     title: "Ative a autenticação em duas etapas",
     color: "violet",
     content:
-      "A autenticação em duas etapas (2FA) adiciona uma camada extra de proteção. Mesmo que alguém descubra sua senha, ainda precisará de um código temporário enviado ao seu celular para acessar sua conta.",
+      "A autenticação em duas etapas (2FA) adiciona uma camada extra de proteção. Mesmo que alguém descubra sua senha, ainda precisará de uma segunda confirmação, como um código temporário, PIN ou aprovação no aplicativo, para acessar sua conta.",
     tip: "Dica prática: ative o 2FA no WhatsApp em: Configurações → Conta → Verificação em duas etapas. Faça o mesmo no Gmail, Instagram, Facebook e banco digital.",
   },
   {
@@ -36,7 +36,7 @@ export const TIPS = [
     title: "Desconfie de links suspeitos",
     color: "cyan",
     content:
-      "Links falsos são a principal porta de entrada para golpes digitais. Antes de clicar em qualquer link recebido por mensagem, e-mail ou redes sociais, verifique se o endereço é legítimo e se faz sentido naquele contexto.",
+      "Links falsos estão entre as formas mais comuns usadas em golpes digitais. Antes de clicar em qualquer link recebido por mensagem, e-mail ou redes sociais, verifique se o endereço é legítimo e se faz sentido naquele contexto.",
     tip: "Dica prática: passe o mouse sobre o link antes de clicar (no computador) para ver o endereço real. Endereços com erros de grafia, como 'bradescoo.com' ou 'itaú-seguro.net', são sinais de golpe.",
   },
   {

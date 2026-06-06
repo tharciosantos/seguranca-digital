@@ -44,8 +44,8 @@ export function Summary() {
           <p className="text-blue-100 text-sm sm:text-base leading-relaxed max-w-xl mx-auto">
             Segurança digital não exige que você seja especialista em
             tecnologia — exige apenas atenção e bons hábitos. Ao aplicar esses
-            7 cuidados, você reduz enormemente as chances de ser vítima de
-            golpes e fraudes online.
+            7 cuidados, você diminui bastante os riscos de cair em golpes e
+            fraudes online.
           </p>
           <p className="mt-4 text-blue-200 text-sm">
             Compartilhe este material com sua família e amigos. Conhecimento
