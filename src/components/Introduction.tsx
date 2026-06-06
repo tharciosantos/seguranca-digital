@@ -18,8 +18,8 @@ export function Introduction() {
           <p className="text-slate-600 text-base sm:text-lg leading-relaxed mb-4">
             Hoje, quase tudo passa pela internet: pagamentos, conversas,
             documentos, fotos e muito mais. Mas junto com essas facilidades,
-            surgem riscos reais: golpes, roubo de senhas, vazamentos de dados
-            e fraudes financeiras afetam milhões de brasileiros todo ano.
+            surgem riscos reais — e golpes, roubos de senha, vazamentos de
+            dados e fraudes online afetam muitas pessoas todos os anos.
           </p>
           <p className="text-slate-600 text-base sm:text-lg leading-relaxed mb-4">
             A boa notícia é que a maioria desses problemas pode ser evitada com

@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://seguranca-digital.vercel.app"),
+  metadataBase: new URL("https://guia-seguranca-digital.vercel.app/"),
   title: "Segurança Digital no Dia a Dia | Ação Extensionista",
   description:
     "Aprenda 7 cuidados simples para se proteger na internet. Material educativo gratuito sobre segurança digital básica para pessoas comuns — ação extensionista acadêmica.",

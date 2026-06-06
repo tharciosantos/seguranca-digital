@@ -1,7 +1,6 @@
 # Modelo de Divulgação — WhatsApp e Redes Sociais
 
-> Use as mensagens abaixo para divulgar o material educativo e o formulário.  
-> Substitua `[LINK DO SITE]` pelo link real do seu site publicado antes de enviar.
+> Mensagens prontas para divulgação — copie e envie diretamente.
 
 ---
 
@@ -18,7 +17,7 @@ Lá você vai aprender:
 ✅ Como ativar proteção extra nas suas contas
 ✅ E muito mais!
 
-👉 Acesse o material aqui: [LINK DO SITE]
+👉 Acesse o material aqui: https://guia-seguranca-digital.vercel.app/
 
 Após ler, me ajude respondendo um formulário rápido de avaliação (leva menos de 5 minutos):
 📝 https://forms.gle/8iavv76xbcDdtaLK8
@@ -44,7 +43,7 @@ O material cobre:
 6️⃣ Como proteger seus dados pessoais
 7️⃣ Por que evitar Wi-Fi público para acessos importantes
 
-🌐 Acesse gratuitamente: [LINK DO SITE]
+🌐 Acesse gratuitamente: https://guia-seguranca-digital.vercel.app/
 
 Este é um projeto extensionista do curso de Análise e Desenvolvimento de Sistemas, alinhado ao ODS 4 – Educação de Qualidade.
 
@@ -77,8 +76,8 @@ Acesse pelo link na bio ou pelo link nos comentários 👇
 
 ## 📋 Checklist antes de divulgar
 
-- [ ] O link do site está funcionando
-- [ ] O formulário do Google Forms está ativo e configurado
-- [ ] O link do formulário foi adicionado ao site (`src/lib/constants.ts`)
-- [ ] Os links foram substituídos nas mensagens acima
+- [x] O link do site está funcionando
+- [x] O formulário do Google Forms está ativo e configurado
+- [x] O link do formulário foi adicionado ao site (`src/lib/constants.ts`)
+- [x] Os links foram substituídos nas mensagens acima
 - [ ] O formulário foi testado por você antes de divulgar

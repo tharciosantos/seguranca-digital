@@ -10,7 +10,7 @@ export const TIPS = [
     color: "blue",
     content:
       "Crie senhas com pelo menos 12 caracteres, combinando letras maiúsculas, minúsculas, números e símbolos (como !, @, #, $). Evite usar datas de aniversário, nomes próprios ou sequências óbvias como '123456' ou 'senha123'.",
-    tip: "Dica prática: use uma frase que só você conhece e transforme em senha. Ex: 'Eu@mo2cafézpordía!' é muito mais segura que 'cafe123'.",
+    tip: "Dica prática: use uma frase que só você conhece e transforme em senha. Ex: 'EuAmo2CafesPorDia!' é muito mais segura que 'cafe123'.",
   },
   {
     number: 2,

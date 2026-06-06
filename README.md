@@ -1,7 +1,8 @@
 # Segurança Digital no Dia a Dia
 
 > **Ação extensionista acadêmica** — Análise e Desenvolvimento de Sistemas  
-> ODS 4 – Educação de Qualidade
+> ODS 4 – Educação de Qualidade  
+> 🌐 **Site publicado:** [guia-seguranca-digital.vercel.app](https://guia-seguranca-digital.vercel.app/)
 
 Página/cartilha educativa sobre **segurança digital básica**, desenvolvida como ação extensionista para conscientizar pessoas da comunidade sobre como se proteger na internet.
 
